@@ -12,5 +12,5 @@ services:
     environment:
       LISTEN: 45876
       KEY: 'ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPW2VmL6jQHq/AaudZa5t1XeB1rdaVf8bsUG15IOSwa8'
-      TOKEN: 3e93eb12-3eb0-494b-b6e3-3fed73fda079
+      TOKEN: f1abf1a6-efc8-4ff4-b14c-c9fc6bfaa153
       HUB_URL: https://beszel.services.husovich.com
