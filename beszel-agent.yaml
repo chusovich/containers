@@ -11,6 +11,6 @@ services:
       # - /mnt/disk/.beszel:/extra-filesystems/sda1:ro
     environment:
       LISTEN: 45876
-      KEY: 'ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPW2VmL6jQHq/AaudZa5t1XeB1rdaVf8bsUG15IOSwa8'
+      KEY: 'ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKHMo4d4U9y7xxAzSmjUt2ce3Zh/3+bPL3IP1aM71up1'
       TOKEN: f1abf1a6-efc8-4ff4-b14c-c9fc6bfaa153
       HUB_URL: https://beszel.services.husovich.com
